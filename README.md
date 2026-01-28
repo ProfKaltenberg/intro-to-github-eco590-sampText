@@ -99,7 +99,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 - This is all pretty new to me. I think I'm doing this correctly.
 ## This should be a header.
-<img src="https://cdn.7tv.app/emote/01H970FHJR0005TVKVAZ4M74AA/4x.avif>
+<img src="https://cdn.7tv.app/emote/01H970FHJR0005TVKVAZ4M74AA/4x.avif">
 Here's a gif of a mean looking cat.
 
 ## 📚  Resources 

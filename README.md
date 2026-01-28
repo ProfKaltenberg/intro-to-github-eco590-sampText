@@ -100,7 +100,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 # This is all pretty new to me. I think I'm doing this correctly.
 ## This should be a header.
 <img src="https://cdn.7tv.app/emote/01H970FHJR0005TVKVAZ4M74AA/4x.avif">
-Here's a gif of a mean looking cat.
+Here's a gif of a mean looking cat. What I did was make my edits to the text, saved, committed the changes on GitHub desktop, then pushed. It should all be updated on the repository.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
